@@ -1,0 +1,33 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Others
+.vs/
+*.dbmdl
+*.psess
+*.vspx
+*.vsp
+*.pdb
+*.cache
+*.pidb
+*.svclog
+*.sdf
+*.opensdf
+*.VC.db
+*.txt
+*.png
+*.jpg
